@@ -27,7 +27,7 @@ void insertionSort(vector<int>& arr)
 
 int main()
 {
-    ifstream inputFile("input.txt.txt");
+    ifstream inputFile("input.txt");
     vector<int> arr;
     int num;
 
